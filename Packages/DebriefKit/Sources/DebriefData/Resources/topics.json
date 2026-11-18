@@ -1,0 +1,146 @@
+[
+  {
+    "id": "optionals",
+    "title": "Опционалы"
+  },
+  {
+    "id": "structs-classes",
+    "title": "Структуры и классы"
+  },
+  {
+    "id": "arc",
+    "title": "ARC и управление памятью"
+  },
+  {
+    "id": "collections",
+    "title": "Коллекции"
+  },
+  {
+    "id": "protocols",
+    "title": "Протоколы"
+  },
+  {
+    "id": "closures",
+    "title": "Замыкания"
+  },
+  {
+    "id": "enums",
+    "title": "Перечисления"
+  },
+  {
+    "id": "error-handling",
+    "title": "Обработка ошибок"
+  },
+  {
+    "id": "extensions",
+    "title": "Расширения"
+  },
+  {
+    "id": "swiftui-lifecycle",
+    "title": "Жизненный цикл вью в SwiftUI"
+  },
+  {
+    "id": "swiftui-state",
+    "title": "Состояние в SwiftUI"
+  },
+  {
+    "id": "concurrency-basics",
+    "title": "Основы многопоточности"
+  },
+  {
+    "id": "codable",
+    "title": "Codable"
+  },
+  {
+    "id": "architecture-basics",
+    "title": "Основы архитектуры"
+  },
+  {
+    "id": "generics",
+    "title": "Дженерики"
+  },
+  {
+    "id": "networking",
+    "title": "Сеть"
+  },
+  {
+    "id": "persistence",
+    "title": "Хранение данных"
+  },
+  {
+    "id": "testing",
+    "title": "Тестирование"
+  },
+  {
+    "id": "performance",
+    "title": "Производительность"
+  },
+  {
+    "id": "modularization",
+    "title": "Модульность"
+  },
+  {
+    "id": "security",
+    "title": "Безопасность"
+  },
+  {
+    "id": "release",
+    "title": "Выпуск и мониторинг"
+  },
+  {
+    "id": "sa-requirements",
+    "title": "Требования"
+  },
+  {
+    "id": "sa-user-stories",
+    "title": "Пользовательские истории и сценарии"
+  },
+  {
+    "id": "sa-uml",
+    "title": "UML и моделирование"
+  },
+  {
+    "id": "sa-bpmn",
+    "title": "Бизнес-процессы и BPMN"
+  },
+  {
+    "id": "sa-data-modeling",
+    "title": "Модели данных"
+  },
+  {
+    "id": "sa-sql",
+    "title": "SQL и базы данных"
+  },
+  {
+    "id": "sa-api",
+    "title": "Проектирование API"
+  },
+  {
+    "id": "sa-integration",
+    "title": "Интеграции"
+  },
+  {
+    "id": "sa-documentation",
+    "title": "Документация"
+  },
+  {
+    "id": "sa-nfr",
+    "title": "Нефункциональные требования"
+  },
+  {
+    "id": "sa-architecture",
+    "title": "Архитектура систем"
+  },
+  {
+    "id": "sa-security",
+    "title": "Безопасность систем"
+  },
+  {
+    "id": "sa-testing",
+    "title": "Приёмка и тестирование"
+  },
+  {
+    "id": "sa-process",
+    "title": "Процессы разработки"
+  }
+]
